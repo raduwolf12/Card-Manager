@@ -44,7 +44,7 @@ public class DetaliiCardAdapter extends RecyclerView.Adapter<DetaliiCardViewHold
         Item curentModel = orderModels;
 
         holder.textView.setText(curentModel.getNumarCard());
-
+//        holder.cardNameDetails.setText(curentModel.getDenumireCard());
         MultiFormatWriter multiFormatWriter = new MultiFormatWriter();
         try {
             BitMatrix bitMatrix = multiFormatWriter.encode(curentModel.getNumarCard(), BarcodeFormat.CODE_128,500, 250);

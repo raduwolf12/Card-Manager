@@ -184,6 +184,7 @@ public class SettingsFragment extends Fragment {
             String cod = (String) val.get("cod");
 
             Item item  = new Item();
+            item.setPozition(entry.getKey());
             item.setNumarCard(cod);
             item.setDenumireCard(denumire);
             creditCards.add(item);

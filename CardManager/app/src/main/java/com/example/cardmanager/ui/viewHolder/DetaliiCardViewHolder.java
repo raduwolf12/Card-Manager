@@ -12,9 +12,11 @@ import com.example.cardmanager.R;
 public class DetaliiCardViewHolder  extends RecyclerView.ViewHolder {
         public TextView textView;
         public ImageView imageView;
+        public TextView cardNameDetails;
         public DetaliiCardViewHolder(@NonNull View itemView) {
             super(itemView);
             textView = itemView.findViewById(R.id.codbare_text);
             imageView = itemView.findViewById(R.id.codbare_imagine);
+            cardNameDetails = itemView.findViewById(R.id.cardNameDetails);
         }
 }
