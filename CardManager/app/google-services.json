@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658976667665",
+    "project_id": "cardmanager-bb74a",
+    "storage_bucket": "cardmanager-bb74a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658976667665:android:59d474eee883591a7799b0",
+        "android_client_info": {
+          "package_name": "com.example.cardmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658976667665-76b682vap7fof3d5t6vcmfisafs6rumq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cardmanager",
+            "certificate_hash": "e9068177b5763a6423c69218185bd8349709ee33"
+          }
+        },
+        {
+          "client_id": "658976667665-eihk31isqakod4t5ntfsdg27ghm3erti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxid43Em-BaVOSXLcBfrreZitrPWNKeHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658976667665-eihk31isqakod4t5ntfsdg27ghm3erti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--default-->
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+<!--Color scheme-->
+<color name="darkJungleGreen">#7DCCAD</color>
+<color name="darkSlateGray">#35605A</color>
+<color name="slateGray">#6B818C</color>
+<color name="crayola">#D8E4FF</color>
+<color name="mediumSpringGreen">#31e981</color>
+
+</resources>
