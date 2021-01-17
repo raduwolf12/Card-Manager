@@ -60,6 +60,7 @@ public class DetaliiCardActivity extends Activity {
             detaliiCardAdapter = new DetaliiCardAdapter(this.getBaseContext(),item);
             receivedCommandsRecycler.setAdapter(detaliiCardAdapter);
             receivedCommandsRecycler.setLayoutManager(layoutManager);
+            textView.setText(item.getDenumireCard());
         }
 
 
